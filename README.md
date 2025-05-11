@@ -43,7 +43,7 @@ El sitio cuenta con tres secciones principales accesibles desde la barra de nave
 
 ## Créditos
 
-Este proyecto fue desarrollado por **Diego Rivera Spröhnle** como parte del proceso formativo en el Instituto San Sebastián.
+Este proyecto fue desarrollado por **Diego Rivera Spröhnle** como parte del desarrollo de la segunda evaluación para la asignatura de T1-25-(52) - TALLER DE TECNOLOGÍAS WEB - IF101IINF   en el Instituto San Sebastián.
 
 ---
 
