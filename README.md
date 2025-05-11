@@ -16,7 +16,7 @@
 ## Tecnologías Utilizadas
 
 - **HTML5**  
-- **CSS3** (archivo externo `/estilos/styles.css`)
+- **CSS**
 - **Bootstrap 5.3.6** (CDN)
 - **JavaScript** (para modales Bootstrap)
 
