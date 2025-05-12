@@ -7,6 +7,12 @@
 
 ---
 
+## Enlace al sitio
+
+**[Galería Espacio Inverso](https://galeria-de-arte-ipss.netlify.app)**
+
+---
+
 ## Descripción
 
 **Galería Espacio Inverso** es una página web desarrollada como parte de la evaluación de la prueba 2 del ramo *Taller de Tecnologías Web*. El sitio presenta una galería virtual de arte donde se exponen diversas obras maestras de artistas como El Bosco, Hokusai, Picasso, Van Gogh y El Greco, acompañadas de descripciones y un diseño centrado en la experiencia del usuario.
@@ -16,7 +22,7 @@
 ## Tecnologías Utilizadas
 
 - **HTML5**  
-- **CSS3** (archivo externo `/estilos/styles.css`)
+- **CSS**
 - **Bootstrap 5.3.6** (CDN)
 - **JavaScript** (para modales Bootstrap)
 
@@ -43,7 +49,7 @@ El sitio cuenta con tres secciones principales accesibles desde la barra de nave
 
 ## Créditos
 
-Este proyecto fue desarrollado por **Diego Rivera Spröhnle** como parte del proceso formativo en el Instituto San Sebastián.
+Este proyecto fue desarrollado por **Diego Rivera Spröhnle** como parte del desarrollo de la segunda evaluación para la asignatura de T1-25-(52) - TALLER DE TECNOLOGÍAS WEB - IF101IINF   en el Instituto San Sebastián.
 
 ---
 
