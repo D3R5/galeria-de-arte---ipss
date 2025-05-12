@@ -50,3 +50,7 @@ Este proyecto fue desarrollado por **Diego Rivera Spröhnle** como parte del pro
 ## Licencia
 
 Este proyecto es únicamente con fines académicos y no está destinado a distribución comercial.
+
+## Video
+
+https://youtu.be/p5fZyKec6nw
